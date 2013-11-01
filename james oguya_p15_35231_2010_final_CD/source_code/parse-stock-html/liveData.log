@@ -1,0 +1,374 @@
+
+Data: 
+
+Data: 
+
+Data: 
+
+Data: Rich.co.ke Nairobi Stock Exchange Scroller
+Data: 
+
+Data: 
+
+		
+Data: 
+		
+Data: 		
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+		
+Data: 
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			
+Data: 
+			
+Data: 
+			try {
+			var pageTracker = _gat._getTracker("UA-2567856-13");
+			pageTracker._setDomainName(".richlive.co.ke");
+			pageTracker._trackPageview();
+			} catch(err) {}
+		
+Data: 
+		
+Data: 
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			
+Data: 
+			
+Data: 
+			try {
+			var pageTracker = _gat._getTracker("UA-2567856-3");
+			pageTracker._setDomainName(".rich.co.ke");
+			pageTracker._trackPageview();
+			} catch(err) {}
+		
+Data: 
+		
+Data: 
+    
+Data: 
+      var woo_settings = {idle_timeout:'300000', domain:'richlive.co.ke'};
+      (function(){
+      var wsc = document.createElement('script');
+      wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+      wsc.type = 'text/javascript';
+      wsc.async = true;
+      var ssc = document.getElementsByTagName('script')[0];
+      ssc.parentNode.insertBefore(wsc, ssc);
+      })();
+    
+Data: 
+    
+Data: 
+      var woo_settings = {idle_timeout:'300000', domain:'rich.co.ke'};
+      (function(){
+      var wsc = document.createElement('script');
+      wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+      wsc.type = 'text/javascript';
+      wsc.async = true;
+      var ssc = document.getElementsByTagName('script')[0];
+      ssc.parentNode.insertBefore(wsc, ssc);
+      })();
+    
+Data: 
+    
+Data: 
+
+Data: 
+
+Data: 
+
+Data: 
+
+Data: 
+
+Data: 18 May 2012
+Data:  
+Data: ACCS
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:11
+Data:  
+Data:  
+Data: ARM
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:11
+Data:  
+Data:  
+Data: BAMB
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:11
+Data:  
+Data:  
+Data: BAT
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: BAUM
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: BBK
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: BERG
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: BOC
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: BRIT
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: C
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: CABL
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: CARB
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: CFC
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: CFCI
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: CITY
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: CMC
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: COOP
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: DTK
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: EABL
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: EGAD
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: EQTY
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: EVRD
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data:  
+Data: FIRE
+Data: HI
+Data:  0.00 
+Data: | 
+Data: LO
+Data:  0.00
+Data: TURNOVER 
+Data: 0
+Data: 07:50:12
+Data:  
+Data: website powered by jsengine
+Data:  
+Data: 
