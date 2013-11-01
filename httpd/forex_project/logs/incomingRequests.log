@@ -1,0 +1,1483 @@
+2012-03-23 17:32:00 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-03-23 17:32:00 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db
+2012-03-23 17:32:00 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-03-23 17:43:06 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-03-23 17:43:06 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,callBackID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','f29f4fda-5ade-4773-a6d7-593f1f8aa1f8','',default,'START KES',5,'',1,'3/23/2012 5:43:05 PM')
+2012-03-23 17:43:06 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-03-23 18:41:38 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-03-23 18:41:38 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','cf5a4d1b-3007-4217-b827-c7547c909428',default,'Start USD',5,'Safaricom',1,'2012-03-23 18:41:38')
+2012-03-23 18:41:38 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','7a014be5-4fc5-4952-af89-ef749ec4aa2c',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-23 18:56:09')
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','4ba8149a-7caf-440d-966b-70585b4e9805',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-23 18:56:09')
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','ff54220d-311e-42df-b7ef-df91ba189e9b',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-23 18:56:09')
+2012-03-23 18:56:10 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','0aa5955e-15d9-4eac-9052-35551b23b2ab',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:12')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','950a792e-1d81-44fd-8f05-715b07f50086',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:12')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','11f697cf-1449-444f-b782-4bf499bf2c3f',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:13')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','eef5a29b-6e56-4944-832d-c56a29fd95f7',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:13')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','44c409bd-2090-4ef1-9e2d-6034f87561ca',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:13')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','75f5845c-347c-447a-827c-e02c8a8e0855',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:13')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','4cec0a67-ee86-45de-aa87-d222971e2689',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:13')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','3ac3be0b-6f1f-47f8-8f56-3eafaf4b1b20',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:32:14')
+2012-03-27 16:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 16:58:02 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-27 16:58:03 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','16542835-a9a5-421f-a7ee-075aac43e60e',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-03-27 16:58:01')
+2012-03-27 16:58:03 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-27 17:01:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254729040397
+2012-03-27 17:01:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254729040397','+254714044696','35fd8bb2-228b-471a-a74d-1918e56e323f',default,'START KES',5,'Safaricom',1,'2012-03-27 17:01:07')
+2012-03-27 17:01:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254729040397}{Thank you for sending....}
+2012-03-27 17:20:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254729040397
+2012-03-27 17:20:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254729040397','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Safaricom',1,'2012-03-27 17:20:53')
+2012-03-27 17:20:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254729040397}{Thank you for sending....}
+2012-03-31 11:17:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-31 11:17:16 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','e1c5cc7b-eba8-4386-b804-71e16338826e',default,'Your subscription to the Unlimited SMS service has been renewed for 10.00 KSH.To unsubscribe,dial *188#.',5,'Safaricom',1,'2012-03-31 11:17:14')
+2012-03-31 11:17:16 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-31 11:23:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-03-31 11:23:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','ef9196cc-b1ee-4639-b85d-458edb6b48f8',default,'Dear customer, we are unable to process your request at this time.  Please try again later. Safaricom the better option. ',5,'Safaricom',1,'2012-03-31 11:23:51')
+2012-03-31 11:23:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-03-31 11:48:40 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254716384373
+2012-03-31 11:48:40 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254716384373','+254714044696','d33f2b89-75b4-403c-8ed0-d89067dbd944',default,'Hae',5,'Safaricom',1,'2012-03-31 11:48:40')
+2012-03-31 11:48:40 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254716384373}{Thank you for sending....}
+2012-03-31 11:49:34 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254716384373
+2012-03-31 11:49:34 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254716384373','+254714044696','5a401ac4-c56f-43d9-afb4-5edee5a73697',default,'For sendng ??',5,'Safaricom',1,'2012-03-31 11:49:34')
+2012-03-31 11:49:34 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254716384373}{Thank you for sending....}
+2012-03-31 11:50:28 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254716384373
+2012-03-31 11:50:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254716384373','+254714044696','7a702d45-5f85-46c1-a4bc-7aa83ba78da3',default,'Hw z ua morning',5,'Safaricom',1,'2012-03-31 11:50:28')
+2012-03-31 11:50:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254716384373}{Thank you for sending....}
+2012-03-31 20:03:40 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:03:40 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','88d66f1d-8675-4e0d-b722-4968ca7ac0b1',default,'To view rates for other currencies please send INFO <currency> to 0714044696.for example: send INFO KES to view the latest forex rates for KES.For more info please visit www.cbk.go.ke',5,'Safaricom',1,'2012-03-31 20:03:39')
+2012-03-31 20:03:40 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:03:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:03:52 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','2f38d119-e7b1-485b-ad19-b29f3dc1d6b8',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:03:51')
+2012-03-31 20:03:52 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:00 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:01 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','c267c1ef-82bf-4583-af58-a4f1153a6cfe',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:04:00')
+2012-03-31 20:04:01 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:09 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:09 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','3c5b8823-5db7-4cfc-9eed-4d7ac627487c',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:04:09')
+2012-03-31 20:04:09 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:18 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:18 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','27eb5eb6-44fc-4110-8489-796e628f422b',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:04:18')
+2012-03-31 20:04:18 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:28 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','299a049b-f142-4c68-89c9-42135fcc9937',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:04:27')
+2012-03-31 20:04:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:37 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:37 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','90bd9001-30b3-4c88-9887-622ee352e7db',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:04:36')
+2012-03-31 20:04:37 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:45 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:46 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','c80f860b-a382-4cf0-b650-76b95be4d3af',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:04:45')
+2012-03-31 20:04:46 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:04:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:04:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','17eb913d-f236-4b3d-83c3-63ab2621e67f',default,'OZEKI NG - SMS Gateway - trial version - www.ozekisms.com',5,'Safaricom',1,'2012-03-31 20:04:54')
+2012-03-31 20:04:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:05:04 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:05:04 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','fdce7c18-4292-41e3-8c24-d7d71d040f38',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:05:03')
+2012-03-31 20:05:04 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-03-31 20:05:13 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-03-31 20:05:13 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','e43d2788-a984-460f-9c7d-1cabc38ef904',default,'Thank you for sending....',5,'Safaricom',1,'2012-03-31 20:05:12')
+2012-03-31 20:05:13 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','d4236ccd-8144-472f-b889-7d4000f03eef',default,'Your subscription to the Unlimited SMS service has been renewed for 10.00 KSH.To unsubscribe,dial *188#.',5,'Safaricom',1,'2012-04-27 10:23:17')
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254716458286
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254716458286','+254714044696','8750205e-ae3f-4017-b6cd-412db79be74a',default,'STOCK START',5,'Safaricom',1,'2012-04-27 10:23:18')
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254716458286}{Thank you for sending....}
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0ae6410e-dd17-4d7c-861d-64cd918aafd2',default,'STOCK START',5,'Safaricom',1,'2012-04-27 10:23:19')
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','01b9e89a-015b-4e0c-8501-92333e194299',default,'STOCK START',5,'Safaricom',1,'2012-04-27 10:23:19')
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','a5e4b885-8aa9-40e2-866a-ef272e77aff2',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-27 10:23:19')
+2012-04-27 10:23:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','84fd2f7b-7925-4a19-830e-74a0a1f03e9e',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-27 10:30:42')
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','815c315d-c069-437d-a09e-ef4469403d1e',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-27 10:30:42')
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','b0bc1799-9bac-433c-9f26-1e05b3113452',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-27 10:30:42')
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','34ec14e8-1e5a-4aff-995e-c7d1a3e330c2',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-27 10:30:42')
+2012-04-27 10:30:43 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:39:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254716458286
+2012-04-27 10:39:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254716458286','+254714044696','e8cc7579-dfe4-4772-aec7-b8686b6dd83a',default,'STOCK STOP.',5,'Safaricom',1,'2012-04-27 10:39:56')
+2012-04-27 10:39:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254716458286}{Thank you for sending....}
+2012-04-27 10:46:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-27 10:46:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','1b351c8d-0009-4c6d-a906-b74ad8c66d9a',default,'Dear customer, we are unable to process your request at this time.  Please try again later. Safaricom the better option. ',5,'Safaricom',1,'2012-04-27 10:46:25')
+2012-04-27 10:46:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-27 10:54:50 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254716458286
+2012-04-27 10:54:50 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254716458286','+254714044696','0076dd09-70e4-4fe4-9162-e63c45b8e3c5',default,'INFO KES',5,'Safaricom',1,'2012-04-27 10:54:50')
+2012-04-27 10:54:50 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254716458286}{Thank you for sending....}
+2012-04-30 11:07:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-30 11:07:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','3c59cb7c-8796-46d3-9736-47f7392650ed',default,'Your subscription to the Unlimited SMS service has been renewed for 10.00 KSH.To unsubscribe,dial *188#.',5,'Safaricom',1,'2012-04-30 11:07:56')
+2012-04-30 11:07:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-30 11:33:05 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-30 11:33:05 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','651c7b23-2b7f-40f0-bf33-abe7640604c0',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-30 11:33:04')
+2012-04-30 11:33:05 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-30 11:34:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-30 11:34:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','60fd86a2-0d55-4567-8bc7-ca221b44fb1d',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-30 11:34:25')
+2012-04-30 11:34:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-04-30 11:36:36 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-04-30 11:36:37 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','ac4366a1-1310-4238-b69c-b93b530e67cc',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-04-30 11:36:36')
+2012-04-30 11:36:37 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-06 18:35:42 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 18:35:42 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator',5,'Simulator',1,'2012-05-06 18:26:26')
+2012-05-06 18:35:42 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 18:37:10 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962receiver= 254714044696
+2012-05-06 18:37:10 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962receiver= 254714044696','','',default,'test',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:37:10 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{}{ 254738530962receiver= 254714044696}{Thank you for sending....}
+2012-05-06 18:38:03 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962receiver= 254714044696
+2012-05-06 18:38:03 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962receiver= 254714044696','','',default,'test',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:38:03 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{}{ 254738530962receiver= 254714044696}{Thank you for sending....}
+2012-05-06 18:38:10 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962receiver= 254714044696
+2012-05-06 18:38:10 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962receiver= 254714044696','','',default,'test',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:38:10 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{}{ 254738530962receiver= 254714044696}{Thank you for sending....}
+2012-05-06 18:39:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962receiver= 254714044696
+2012-05-06 18:39:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962receiver= 254714044696','','',default,'test',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:39:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{}{ 254738530962receiver= 254714044696}{Thank you for sending....}
+2012-05-06 18:40:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962receiver= 254714044696
+2012-05-06 18:40:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962receiver= 254714044696','','',default,'test',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:40:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{}{ 254738530962receiver= 254714044696}{Thank you for sending....}
+2012-05-06 18:41:49 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962receiver= 254714044696
+2012-05-06 18:41:50 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962receiver= 254714044696','','',default,'test',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:41:50 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{}{ 254738530962receiver= 254714044696}{Thank you for sending....}
+2012-05-06 18:44:42 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962
+2012-05-06 18:44:42 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962',' 254714044696','',default,'testing',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:44:42 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{ 254714044696}{ 254738530962}{Thank you for sending....}
+2012-05-06 18:46:17 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962
+2012-05-06 18:46:17 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962',' 254714044696','',default,'testing',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:46:17 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{ 254714044696}{ 254738530962}{Thank you for sending....}
+2012-05-06 18:47:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962
+2012-05-06 18:47:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962',' 254714044696','',default,'testing',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:47:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{ 254714044696}{ 254738530962}{Thank you for sending....}
+2012-05-06 18:50:17 - /var/www/html/forex_project/incomingRequests.php - About to process sms from  254738530962
+2012-05-06 18:50:17 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values(' 254738530962',' 254714044696','',default,'testing',5,'default',1,'2012-05-06 00:00:00')
+2012-05-06 18:50:17 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{ 254714044696}{ 254738530962}{Thank you for sending....}
+2012-05-06 19:11:00 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 19:11:00 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator',5,'default',1,'2012-05-06 18:44:35')
+2012-05-06 19:11:00 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 19:12:12 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 19:12:12 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 19:12:12 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 19:34:03 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-06 19:34:03 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 19:34:03 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-06 19:35:06 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-06 19:35:06 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 19:35:06 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-06 19:59:28 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 19:59:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 19:59:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 20:01:35 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-06 20:01:35 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 20:01:35 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-06 20:03:03 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 20:03:03 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 20:03:03 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 20:05:02 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 20:05:02 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'default',1,'1970-01-01 03:00:00')
+2012-05-06 20:05:02 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 20:06:58 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 20:06:58 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-06 20:06:58 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 20:08:23 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 20:08:23 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-06 20:08:23 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 20:11:13 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 20:11:13 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-06 20:11:13 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-06 20:11:34 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-06 20:11:34 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'testing simulator....',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-06 20:11:34 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-07 9:07:35 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-07 9:07:35 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 9:07:35 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-07 12:35:40 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-07 12:35:41 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:35:41 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-07 12:38:46 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-07 12:38:46 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:38:46 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-07 12:39:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-07 12:39:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:39:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-07 12:40:35 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-07 12:40:35 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:40:35 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-07 12:44:29 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-07 12:44:30 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO CHF',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:44:30 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-07 12:46:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-07 12:46:14 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO CHF',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:46:14 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-07 12:48:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-07 12:48:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:48:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-07 12:50:17 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-07 12:50:17 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-07 12:50:17 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 10:56:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 10:56:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 10:56:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 10:57:06 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 10:57:06 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 10:57:06 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 16:47:01 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 16:47:01 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:47:01 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 16:50:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 16:50:14 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'stock scom',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:50:14 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 16:50:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 16:50:27 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'stock unga',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:50:27 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 16:50:46 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 16:50:47 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'stock c&g',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:50:47 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 16:51:45 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-09 16:51:45 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:51:45 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-09 16:51:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-09 16:51:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:51:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-09 16:52:05 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-09 16:52:05 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:52:05 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-09 16:52:22 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-09 16:52:22 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:52:22 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-09 16:52:30 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-09 16:52:30 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:52:30 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-09 16:55:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-09 16:55:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:55:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-09 16:55:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 16:55:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:55:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-09 16:56:07 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-09 16:56:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-09 16:56:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-15 7:37:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-15 7:37:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-15 7:37:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 8:32:48 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 8:32:48 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 8:32:48 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 8:49:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 8:49:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 8:49:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 8:56:18 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 8:56:18 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 8:56:18 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 8:57:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 8:57:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 8:57:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 8:58:21 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 8:58:21 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 8:58:21 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 8:59:23 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 8:59:24 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 8:59:24 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 9:02:24 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:02:24 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:02:24 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:03:04 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:03:05 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK CITY',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:03:05 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:05:10 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:05:10 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:05:10 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:11:36 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:11:36 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:11:36 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:13:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:13:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO ZAR',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:13:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:14:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:14:52 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:14:52 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:17:13 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:17:13 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:17:13 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:29:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:29:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:29:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:32:36 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:32:36 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:32:36 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:36:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:36:58 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:36:58 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:37:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:37:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:37:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:38:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:38:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:38:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:39:49 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:39:49 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:39:49 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:42:25 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:42:25 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:42:25 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:43:02 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:43:02 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:43:02 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:43:37 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:43:37 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:43:37 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:47:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:47:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:47:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:47:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:47:40 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:47:40 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:49:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:49:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:49:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:49:53 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:49:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:49:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:59:01 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:59:01 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'info  kes',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:59:01 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 9:59:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 9:59:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'info  kes',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 9:59:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:08:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:08:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:08:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:08:41 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:08:41 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:08:41 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:08:52 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:08:53 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:08:53 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:09:04 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:09:04 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:09:04 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:09:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:09:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:09:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:09:34 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:09:34 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:09:34 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:13:41 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:13:41 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:13:41 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:14:03 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:14:03 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:14:03 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:14:22 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:14:22 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:14:22 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:14:42 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:14:42 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:14:42 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:14:58 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:14:58 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:14:58 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:17:18 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:17:19 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:17:19 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:23:06 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:23:07 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:23:07 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:23:52 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:23:52 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO CHF',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:23:52 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:25:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:25:27 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO CHF',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:25:27 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:27:19 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:27:19 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO CHF',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:27:19 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:30:38 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:30:38 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:30:38 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:32:35 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:32:36 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:32:36 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:33:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:33:14 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:33:14 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:34:17 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:34:17 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:34:17 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:34:45 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:34:45 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:34:45 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:34:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:34:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO CHF',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:34:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:35:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:35:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:35:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:36:44 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:36:44 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:36:44 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:38:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 10:38:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:38:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 10:40:16 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:40:17 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:40:17 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:41:07 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:41:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:41:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:41:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:41:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:41:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:42:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:42:14 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:42:14 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:43:11 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:43:11 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:43:11 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:44:11 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:44:11 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:44:11 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:45:53 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 10:45:53 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:45:53 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 10:46:06 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 10:46:07 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:46:07 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 10:47:47 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:47:47 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:47:47 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:50:02 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:50:03 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:50:03 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:50:18 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:50:18 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:50:18 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:51:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:51:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:51:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:52:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:52:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:52:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:52:17 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:52:18 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:52:18 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:52:35 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:52:35 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:52:35 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:52:43 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:52:43 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:52:43 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:52:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:52:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:52:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:53:09 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:53:09 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:53:09 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:53:38 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:53:38 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:53:38 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:54:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:54:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:54:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:54:30 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:54:30 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:54:30 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:54:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:54:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:54:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:55:05 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:55:05 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:55:05 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:55:23 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:55:23 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:55:23 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:55:45 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:55:45 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:55:45 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:55:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:55:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:55:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:56:41 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:56:41 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:56:41 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:57:19 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:57:19 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:57:19 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 10:57:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 10:57:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 10:57:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:00:37 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:00:37 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:00:37 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:01:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:01:27 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:01:27 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:02:09 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:02:09 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:02:09 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:03:20 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:03:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:03:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:03:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:03:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:03:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:04:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:04:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:04:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:04:50 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:04:50 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:04:50 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:05:07 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:05:07 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:05:07 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:22:25 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:22:25 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:22:25 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:23:31 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:23:31 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:23:31 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:24:01 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:24:02 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:24:02 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:24:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:24:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:24:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:25:29 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:25:29 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:25:29 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:29:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:29:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:29:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:29:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:29:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:29:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:30:12 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:30:12 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:30:12 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:30:53 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:30:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:30:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:32:09 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:32:09 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:32:09 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:32:19 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:32:19 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:32:19 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 11:53:05 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 11:53:05 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 11:53:05 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 12:04:53 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 12:04:53 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:04:53 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 12:04:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 12:04:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:04:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 12:05:07 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 12:05:07 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:05:07 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 12:05:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 12:05:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:05:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 12:06:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-16 12:06:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:06:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-16 12:07:01 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 12:07:01 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:07:01 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 12:10:28 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 12:10:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:10:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 12:57:45 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 12:57:45 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:57:45 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 12:57:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 12:57:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:57:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 12:58:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254714044696
+2012-05-16 12:58:14 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254714044696','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 12:58:14 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254714044696}{Thank you for sending....}
+2012-05-16 13:58:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 13:58:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 13:58:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 13:59:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 13:59:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 13:59:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 13:59:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 13:59:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO FGDG',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 13:59:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:00:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:00:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:00:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:01:30 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:01:31 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:01:31 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:02:33 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:02:33 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:02:33 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:02:47 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:02:47 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:02:47 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:03:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:03:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:03:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:03:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:03:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:03:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 14:09:19 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 14:09:19 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 14:09:19 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 18:12:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 18:12:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START FEWW',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 18:12:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 18:12:53 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 18:12:53 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 18:12:53 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 18:13:16 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 18:13:16 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 18:13:16 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 18:13:36 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 18:13:36 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 18:13:36 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 18:13:59 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 18:13:59 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 18:13:59 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 18:14:11 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 18:14:11 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO EWFRE',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 18:14:11 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 19:31:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 19:31:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 19:31:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 19:34:32 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 19:34:32 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 19:34:32 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 19:34:48 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 19:34:48 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 19:34:48 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 22:00:31 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 22:00:31 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 22:00:31 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 22:00:42 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 22:00:42 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 22:00:42 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 22:03:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 22:03:27 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 22:03:27 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-16 22:03:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-16 22:03:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START TPSE',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-16 22:03:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-17 9:28:16 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-17 9:28:16 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-17 9:28:16 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-17 21:53:38 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710315598
+2012-05-17 21:53:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710315598','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-17 21:53:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254710315598}{Thank you for sending....}
+2012-05-17 21:53:53 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710315598
+2012-05-17 21:53:53 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710315598','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-17 21:53:53 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254710315598}{Thank you for sending....}
+2012-05-17 21:54:47 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:47 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','8382d7a2-5fe3-43ac-82f1-5463c760b0db',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:46')
+2012-05-17 21:54:47 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-17 21:54:48 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:48 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','4d32d9e9-1b59-4acd-89c4-bf26ba9cb07f',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:46')
+2012-05-17 21:54:48 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-17 21:54:49 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:49 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','468fed31-0355-4c0c-87d2-97e992643db2',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:46')
+2012-05-17 21:54:49 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-17 21:54:49 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:49 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','bd51b48b-99d7-44f8-962a-5cde30e9736a',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:46')
+2012-05-17 21:54:49 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-17 21:54:50 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:50 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','811553f3-c77d-4275-9e62-46c2161f5e56',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:47')
+2012-05-17 21:54:50 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-17 21:54:50 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:50 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','b4ecb985-1302-41fb-9fb8-0dcd4b5aca0c',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:47')
+2012-05-17 21:54:50 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-17 21:54:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-17 21:54:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','15a8a505-ca7d-4b2a-ab36-2ac2b914fc0b',default,'Sorry,your account balance is not sufficient to complete this request.Please top up and try again.',5,'Safaricom',1,'2012-05-17 21:54:47')
+2012-05-17 21:54:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-18 4:59:48 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 4:59:48 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 4:59:48 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:04:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:04:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:04:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:05:00 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:05:00 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:05:00 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:05:22 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:05:22 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:05:22 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:07:19 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:07:20 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:07:20 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:08:05 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:08:05 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:08:05 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:09:19 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:09:19 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:09:19 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:10:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:10:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:10:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:11:46 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:11:46 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:11:46 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:12:18 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:12:18 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:12:18 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:12:36 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:12:36 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:12:36 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:13:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:13:40 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:13:40 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:14:09 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:14:09 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:14:09 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:15:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:15:27 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:15:27 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:18:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:18:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:18:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:19:18 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:19:18 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:19:18 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:20:37 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:20:37 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:20:37 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:20:50 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:20:50 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP UNGA',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:20:50 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:22:42 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:22:42 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:22:42 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:22:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:22:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK STOP SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:22:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:25:46 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:25:46 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:25:46 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:25:56 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:25:56 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:25:56 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:27:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:27:54 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:27:54 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:28:06 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:28:06 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:28:06 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:28:35 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:28:35 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:28:35 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:33:08 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:33:08 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:33:08 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:33:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:33:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'START USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:33:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:34:26 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:34:26 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:34:26 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:36:44 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:36:44 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:36:44 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:37:58 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:37:58 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:37:58 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 5:38:07 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 5:38:07 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOP USD',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 5:38:07 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 9:43:47 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 9:43:47 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 9:43:47 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 9:56:54 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 9:56:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 9:56:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 9:58:55 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 9:58:55 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 9:58:55 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 10:01:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 10:01:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:01:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 10:02:22 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 10:02:22 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK XPRS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:02:22 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 10:04:16 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 10:04:16 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK XPRS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:04:16 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 10:10:46 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:10:46 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:10:46 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:11:21 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:11:21 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK START SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:11:21 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:11:45 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:11:45 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SSTOP SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:11:45 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:12:14 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:12:14 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:12:14 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:13:30 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:13:30 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ACCS',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:13:30 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:15:24 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:15:24 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'INFO KES',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:15:24 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:18:09 - /var/www/html/forex_project/incomingRequests.php - About to process sms from simulator
+2012-05-18 10:18:09 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('simulator','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:18:09 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{simulator}{Thank you for sending....}
+2012-05-18 10:23:27 - /var/www/html/forex_project/incomingRequests.php - About to process sms from Safaricom
+2012-05-18 10:23:27 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('Safaricom','+254714044696','bacbfda9-308a-4f94-a436-d38dc91957ed',default,'Your subscription to the Unlimited SMS service has been renewed for 10.00 KSH.To unsubscribe,dial *188#.',5,'Safaricom',1,'2012-05-18 10:21:51')
+2012-05-18 10:23:27 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{Safaricom}{Thank you for sending....}
+2012-05-18 10:23:28 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254728774482
+2012-05-18 10:23:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254728774482','+254714044696','9fbd82ae-448e-4ea3-bb8e-1a50b27e7ba1',default,'STOCK SCOM',5,'Safaricom',1,'2012-05-18 10:21:51')
+2012-05-18 10:23:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254728774482}{Thank you for sending....}
+2012-05-18 10:23:29 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254729429360
+2012-05-18 10:23:29 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254729429360','+254714044696','55f10de2-d20e-4958-8e10-e7adcec02a21',default,'STOCK ESCO',5,'Safaricom',1,'2012-05-18 10:21:51')
+2012-05-18 10:23:29 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254729429360}{Thank you for sending....}
+2012-05-18 10:23:51 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254729429360
+2012-05-18 10:23:51 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254729429360','+254714044696','20d6f960-b5ec-433e-bfbf-8566a8645cb5',default,'STOCK SCOM',5,'Safaricom',1,'2012-05-18 10:23:45')
+2012-05-18 10:23:51 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254729429360}{Thank you for sending....}
+2012-05-18 10:29:57 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710852751
+2012-05-18 10:29:57 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710852751','+254714044696','c3fe02c5-aa50-45ac-a242-e39f5381b18a',default,'STOCK SCOM',5,'Safaricom',1,'2012-05-18 10:29:56')
+2012-05-18 10:29:57 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254710852751}{Thank you for sending....}
+2012-05-18 10:32:15 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254733805246
+2012-05-18 10:32:15 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254733805246','+254714044696','d87a43fd-1f4c-4d91-a8be-81454837a195',default,'STOCK SCOM',5,'Safaricom',1,'2012-05-18 10:32:14')
+2012-05-18 10:32:15 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254733805246}{Thank you for sending....}
+2012-05-18 10:32:16 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 10:32:16 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','da8bca26-b0f7-48c3-aa01-d36a34535789',default,'INFO KES ',5,'Safaricom',1,'2012-05-18 10:32:15')
+2012-05-18 10:32:16 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Safaricom}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 10:34:46 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254738530962
+2012-05-18 10:34:47 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254738530962','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:34:47 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254738530962}{Thank you for sending....}
+2012-05-18 10:42:24 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710852751
+2012-05-18 10:42:24 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710852751','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK SCOM',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:42:24 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254710852751}{Thank you for sending....}
+2012-05-18 10:43:52 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710852751
+2012-05-18 10:43:52 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710852751','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:43:52 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254710852751}{Thank you for sending....}
+2012-05-18 10:44:28 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710852751
+2012-05-18 10:44:28 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710852751','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:44:28 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254710852751}{Thank you for sending....}
+2012-05-18 10:45:39 - /var/www/html/forex_project/incomingRequests.php - About to process sms from +254710852751
+2012-05-18 10:45:39 - /var/www/html/forex_project/incomingRequests.php - successfully inserted new sms to db  insert into 
+	incomingRequests(MSISDN,destAddr,messageID,messageType,messageContent,processed,operator,routeID,receivedTime) 
+	values('+254710852751','+254714044696','0d40a78c-20b9-471f-bbee-ac1e1557c126',default,'STOCK ALL',5,'Simulator',1,'1970-01-01 03:00:00')
+2012-05-18 10:45:39 - /var/www/html/forex_project/incomingRequests.php - {SMS:TEXT}{Simulator}{+254714044696}{+254710852751}{Thank you for sending....}

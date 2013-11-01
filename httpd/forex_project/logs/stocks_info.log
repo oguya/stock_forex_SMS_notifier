@@ -1,0 +1,1443 @@
+2012-04-16 12:42:29 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-16 12:42:29 - stock_info.php - No requests to be updated!
+2012-04-24 5:39:09 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-24 5:39:09 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%'
+2012-04-24 5:45:29 - stock_info.php - Just fetched 2 sms for processing.
+2012-04-24 5:45:29 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%'
+2012-04-24 5:45:29 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%'
+2012-04-24 5:45:29 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 37 limit 1
+2012-04-24 5:45:29 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 38 limit 1
+2012-04-24 7:55:27 - stock_info.php - Just fetched 2 sms for processing.
+2012-04-24 7:55:27 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-24 7:55:27 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%' limit 1
+2012-04-24 7:55:27 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 39 limit 1
+2012-04-24 7:55:27 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 40 limit 1
+2012-04-24 8:18:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-24 8:18:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%' limit 1
+2012-04-24 8:18:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 37 limit 1
+2012-04-27 10:00:48 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:00:48 - stock_info.php - No requests to be updated!
+2012-04-27 10:02:27 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:02:27 - stock_info.php - No requests to be updated!
+2012-04-27 10:08:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:08:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:09:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:09:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:10:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:10:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:11:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:11:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:12:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:12:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:13:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:13:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:14:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:14:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:15:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:15:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:16:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:16:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:17:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:17:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:18:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:18:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:20:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:20:05 - stock_info.php - No requests to be updated!
+2012-04-27 10:21:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:21:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:22:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:22:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:23:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:23:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:24:03 - stock_info.php - Just fetched 3 sms for processing.
+2012-04-27 10:24:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-27 10:24:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-27 10:24:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-27 10:24:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 43 limit 1
+2012-04-27 10:24:04 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 44 limit 1
+2012-04-27 10:24:04 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 45 limit 1
+2012-04-27 10:25:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:25:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:26:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:26:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:27:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:27:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:28:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:28:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:29:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:29:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:30:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:30:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:31:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:31:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:32:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:32:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:33:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:33:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:34:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:34:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:35:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:35:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:36:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-27 10:36:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%STOP%' limit 1
+2012-04-27 10:36:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 51 limit 1
+2012-04-27 10:37:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:37:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:38:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:38:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:39:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:39:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:40:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-27 10:40:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%STOP.%' limit 1
+2012-04-27 10:40:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 53 limit 1
+2012-04-27 10:41:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:41:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:42:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:42:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:43:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:43:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:44:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:44:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:45:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:45:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:46:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:46:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:47:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:47:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:48:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:48:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:49:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:49:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:50:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:50:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:51:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:51:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:52:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:52:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:53:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:53:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:54:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:54:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:55:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:55:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:56:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:56:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:57:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:57:03 - stock_info.php - No requests to be updated!
+2012-04-27 10:58:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:58:04 - stock_info.php - No requests to be updated!
+2012-04-27 10:59:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 10:59:03 - stock_info.php - No requests to be updated!
+2012-04-27 11:00:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:00:04 - stock_info.php - No requests to be updated!
+2012-04-27 11:01:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:01:03 - stock_info.php - No requests to be updated!
+2012-04-27 11:02:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:02:03 - stock_info.php - No requests to be updated!
+2012-04-27 11:03:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:03:04 - stock_info.php - No requests to be updated!
+2012-04-27 11:04:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:04:03 - stock_info.php - No requests to be updated!
+2012-04-27 11:05:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:05:04 - stock_info.php - No requests to be updated!
+2012-04-27 11:06:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-27 11:06:03 - stock_info.php - No requests to be updated!
+2012-04-30 8:41:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 8:41:26 - stock_info.php - No requests to be updated!
+2012-04-30 11:11:36 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:11:36 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%' limit 1
+2012-04-30 11:11:36 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='UNGA' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 11:11:36 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254716458286',default,default,'Company: Unga Group Ltd Hi: 0 Low:  TurnOver: 0 Timestamp: ',default)
+2012-04-30 11:11:36 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 60 limit 1
+2012-04-30 11:12:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:12:16 - stock_info.php - No requests to be updated!
+2012-04-30 11:13:47 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:13:47 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-04-30 11:13:47 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='SCOM' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 11:13:48 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254716458286',default,default,'Company: Safaricom Ltd Hi: 3.3 Low: 3.3 TurnOver: 30,030 Timestamp: ',default)
+2012-04-30 11:13:48 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 61 limit 1
+2012-04-30 11:14:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:14:05 - stock_info.php - No requests to be updated!
+2012-04-30 11:15:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:15:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:16:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:16:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:17:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:17:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:17:48 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:17:48 - stock_info.php - No requests to be updated!
+2012-04-30 11:18:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:18:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:18:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:18:52 - stock_info.php - No requests to be updated!
+2012-04-30 11:19:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:19:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:19:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:19:56 - stock_info.php - No requests to be updated!
+2012-04-30 11:20:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:20:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:21:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:21:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:22:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:22:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:23:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:23:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:24:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:24:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:24:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:24:06 - stock_info.php - No requests to be updated!
+2012-04-30 11:25:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:25:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:26:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:26:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:27:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:27:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:28:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:28:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:29:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:29:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:30:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:30:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:31:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:31:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:32:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:32:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:33:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:33:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-30 11:33:04 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 66 limit 1
+2012-04-30 11:34:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:34:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:35:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:35:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:36:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:36:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:37:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:37:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:38:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:38:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:39:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:39:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:40:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:40:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:41:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:41:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-30 11:41:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 72 limit 1
+2012-04-30 11:42:04 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:42:04 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%START%' limit 1
+2012-04-30 11:42:04 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 73 limit 1
+2012-04-30 11:43:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:43:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%STOP%' limit 1
+2012-04-30 11:43:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 74 limit 1
+2012-04-30 11:44:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:44:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:45:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:45:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:46:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:46:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:47:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:47:05 - stock_info.php - No requests to be updated!
+2012-04-30 11:48:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:48:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:49:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:49:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:50:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:51:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:51:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:52:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:52:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:53:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:53:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:54:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:54:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:55:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:55:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:55:54 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:55:54 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-04-30 11:55:54 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 80 limit 1
+2012-04-30 11:56:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:56:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:57:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:57:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-04-30 11:57:03 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='SCOM' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 11:57:03 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254705126549',default,default,'Company: Safaricom Ltd Hi: 3.4 Low: 3.3 TurnOver: 577,240 Timestamp: 2012-04-30 11:56:34',default)
+2012-04-30 11:57:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 81 limit 1
+2012-04-30 11:57:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:57:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:58:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:58:04 - stock_info.php - No requests to be updated!
+2012-04-30 11:59:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 11:59:03 - stock_info.php - No requests to be updated!
+2012-04-30 11:59:59 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 11:59:59 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%ACCS%' limit 1
+2012-04-30 11:59:59 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='ACCS' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 11:59:59 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254705126549',default,default,'Company: Access Kenya Group Ltd Hi: 4.75 Low: 4.75 TurnOver: 3,800 Timestamp: 2012-04-30 11:56:32',default)
+2012-04-30 11:59:59 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 82 limit 1
+2012-04-30 12:00:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:00:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:01:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:01:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:02:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:02:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:03:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:03:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:03:50 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 12:03:50 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-04-30 12:03:50 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='SCOM' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 12:03:50 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254722168704',default,default,'Company: Safaricom Ltd Hi: 3.4 Low: 3.3 TurnOver: 577,240 Timestamp: 2012-04-30 11:56:34',default)
+2012-04-30 12:03:50 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 83 limit 1
+2012-04-30 12:04:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:04:03 - stock_info.php - No requests to be updated!
+2012-04-30 12:05:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:05:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:06:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:06:03 - stock_info.php - No requests to be updated!
+2012-04-30 12:07:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:07:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:08:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:08:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:09:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:09:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:10:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:10:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:11:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:11:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:12:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:12:03 - stock_info.php - No requests to be updated!
+2012-04-30 12:13:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:13:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:14:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:14:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:15:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:15:03 - stock_info.php - No requests to be updated!
+2012-04-30 12:16:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:16:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:17:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:17:03 - stock_info.php - No requests to be updated!
+2012-04-30 12:18:04 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 12:18:04 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%KQ%' limit 1
+2012-04-30 12:18:04 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='KQ' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 12:18:04 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254722168704',default,default,'Company: Kenya Airways Ltd Hi: 14.95 Low: 14.8 TurnOver: 2,103,495 Timestamp: 2012-04-30 11:56:33',default)
+2012-04-30 12:18:04 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 87 limit 1
+2012-04-30 12:19:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:19:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:20:03 - stock_info.php - Just fetched 1 sms for processing.
+2012-04-30 12:20:03 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%KQ%' limit 1
+2012-04-30 12:20:03 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='KQ' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 12:20:03 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254705126549',default,default,'Company: Kenya Airways Ltd Hi: 14.95 Low: 14.8 TurnOver: 2,103,495 Timestamp: 2012-04-30 11:56:33',default)
+2012-04-30 12:20:03 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 88 limit 1
+2012-04-30 12:20:50 - stock_info.php - Just fetched 3 sms for processing.
+2012-04-30 12:20:50 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%C&G%' limit 1
+2012-04-30 12:20:50 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='C&G' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 12:20:50 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254705126549',default,default,'Company: Car & General(K) Ltd Hi: 0 Low: 0 TurnOver: 0 Timestamp: 2012-04-30 11:56:32',default)
+2012-04-30 12:20:50 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%C&G%' limit 1
+2012-04-30 12:20:50 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='C&G' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 12:20:50 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254705126549',default,default,'Company: Car & General(K) Ltd Hi: 0 Low: 0 TurnOver: 0 Timestamp: 2012-04-30 11:56:32',default)
+2012-04-30 12:20:50 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%KQ%' limit 1
+2012-04-30 12:20:50 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='KQ' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-04-30 12:20:50 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254705126549',default,default,'Company: Kenya Airways Ltd Hi: 14.95 Low: 14.8 TurnOver: 2,103,495 Timestamp: 2012-04-30 11:56:33',default)
+2012-04-30 12:20:50 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 89 limit 1
+2012-04-30 12:20:50 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 90 limit 1
+2012-04-30 12:20:50 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 91 limit 1
+2012-04-30 12:21:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:21:04 - stock_info.php - No requests to be updated!
+2012-04-30 12:22:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 12:22:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:02:36 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:02:36 - stock_info.php - No requests to be updated!
+2012-04-30 13:03:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:03:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:04:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:04:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:05:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:05:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:06:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:06:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:07:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:07:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:08:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:08:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:09:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:09:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:10:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:10:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:11:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:11:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:12:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:12:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:13:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:13:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:14:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:14:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:15:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:15:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:16:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:16:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:17:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:17:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:18:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:18:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:19:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:19:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:20:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:20:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:21:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:21:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:22:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:22:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:23:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:23:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:24:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:24:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:25:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:25:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:26:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:26:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:27:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:27:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:28:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:28:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:29:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:29:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:30:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:30:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:31:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:31:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:32:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:32:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:33:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:33:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:34:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:34:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:35:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:35:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:36:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:36:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:37:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:37:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:38:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:38:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:39:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:39:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:40:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:40:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:41:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:41:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:42:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:42:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:43:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:43:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:44:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:44:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:45:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:45:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:46:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:46:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:47:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:47:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:48:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:48:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:49:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:49:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:50:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:51:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:51:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:52:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:52:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:53:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:53:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:54:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:54:04 - stock_info.php - No requests to be updated!
+2012-04-30 13:55:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:55:03 - stock_info.php - No requests to be updated!
+2012-04-30 13:56:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-04-30 13:56:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:37:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:37:16 - stock_info.php - No requests to be updated!
+2012-05-07 12:39:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:39:02 - stock_info.php - No requests to be updated!
+2012-05-07 12:39:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:39:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:39:41 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:39:41 - stock_info.php - No requests to be updated!
+2012-05-07 12:40:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:40:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:40:41 - stock_info.php - Just fetched 1 sms for processing.
+2012-05-07 12:40:41 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%' limit 1
+2012-05-07 12:40:41 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='UNGA' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-05-07 12:40:41 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('+254738530962',default,default,'Company: Unga Group Ltd Hi: 10.65 Low: 10.5 TurnOver: 112,545 Timestamp: 2012-05-07 12:34:55',default)
+2012-05-07 12:40:41 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 119 limit 1
+2012-05-07 12:41:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:41:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:42:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:42:03 - stock_info.php - No requests to be updated!
+2012-05-07 12:43:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:43:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:05 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:11 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:17 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:23 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:29 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:29 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:35 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:35 - stock_info.php - No requests to be updated!
+2012-05-07 12:44:48 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:44:48 - stock_info.php - No requests to be updated!
+2012-05-07 12:45:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:45:03 - stock_info.php - No requests to be updated!
+2012-05-07 12:45:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:45:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:46:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:46:03 - stock_info.php - No requests to be updated!
+2012-05-07 12:46:27 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:46:27 - stock_info.php - No requests to be updated!
+2012-05-07 12:47:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:47:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:48:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:48:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:49:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:49:03 - stock_info.php - No requests to be updated!
+2012-05-07 12:49:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:49:16 - stock_info.php - No requests to be updated!
+2012-05-07 12:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:50:04 - stock_info.php - No requests to be updated!
+2012-05-07 12:50:23 - stock_info.php - Just fetched 1 sms for processing.
+2012-05-07 12:50:23 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-05-07 12:50:23 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='SCOM' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-05-07 12:50:23 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('simulator',default,default,'Company: Safaricom Ltd Hi: 3.5 Low: 3.45 TurnOver: 897,905 Timestamp: 2012-05-07 12:34:55',default)
+2012-05-07 12:50:23 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 123 limit 1
+2012-05-07 12:51:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 12:51:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:13:42 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:13:42 - stock_info.php - No requests to be updated!
+2012-05-07 13:14:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:14:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:15:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:15:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:16:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:16:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:17:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:17:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:18:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:18:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:19:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:19:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:20:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:20:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:21:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:21:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:22:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:22:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:23:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:23:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:24:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:24:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:25:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:25:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:26:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:26:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:27:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:27:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:28:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:28:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:29:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:29:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:30:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:30:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:31:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:31:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:32:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:32:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:33:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:33:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:34:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:34:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:35:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:35:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:36:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:36:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:37:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:37:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:38:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:38:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:39:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:39:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:40:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:40:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:41:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:41:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:42:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:42:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:43:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:43:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:44:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:44:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:45:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:45:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:46:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:46:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:47:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:47:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:48:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:48:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:49:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:49:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:50:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:51:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:51:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:52:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:52:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:53:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:53:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:54:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:54:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:55:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:55:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:56:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:56:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:57:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:57:04 - stock_info.php - No requests to be updated!
+2012-05-07 13:58:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:58:03 - stock_info.php - No requests to be updated!
+2012-05-07 13:59:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 13:59:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:00:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:00:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:01:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:01:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:02:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:02:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:03:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:03:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:04:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:04:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:05:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:05:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:06:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:06:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:07:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:07:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:08:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:08:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:09:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:09:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:10:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:10:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:11:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:11:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:12:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:12:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:13:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:13:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:14:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:14:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:15:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:15:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:16:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:16:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:17:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:17:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:18:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:18:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:19:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:19:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:20:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:20:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:21:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:21:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:22:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:22:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:23:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:23:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:24:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:24:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:25:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:25:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:26:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:26:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:27:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:27:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:28:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:28:08 - stock_info.php - No requests to be updated!
+2012-05-07 14:29:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:29:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:30:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:30:11 - stock_info.php - No requests to be updated!
+2012-05-07 14:31:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:31:11 - stock_info.php - No requests to be updated!
+2012-05-07 14:32:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:32:11 - stock_info.php - No requests to be updated!
+2012-05-07 14:33:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:33:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:34:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:34:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:35:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:35:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:36:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:36:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:37:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:37:03 - stock_info.php - No requests to be updated!
+2012-05-07 14:38:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:38:04 - stock_info.php - No requests to be updated!
+2012-05-07 14:39:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-07 14:39:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:47:19 - stock_info.php - Just fetched 1 sms for processing.
+2012-05-09 16:47:19 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-05-09 16:47:19 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='SCOM' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-05-09 16:47:19 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('simulator',default,default,'Company: Safaricom Ltd Hi: 3.45 Low: 3.3 TurnOver: 18,441,476 Timestamp: 2012-05-09 16:46:26',default)
+2012-05-09 16:47:19 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 126 limit 1
+2012-05-09 16:49:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:50 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:50 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:49:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:49:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:14 - stock_info.php - Just fetched 1 sms for processing.
+2012-05-09 16:50:14 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%SCOM%' limit 1
+2012-05-09 16:50:14 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='SCOM' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-05-09 16:50:14 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('simulator',default,default,'Company: Safaricom Ltd Hi: 3.45 Low: 3.3 TurnOver: 18,441,476 Timestamp: 2012-05-09 16:46:26',default)
+2012-05-09 16:50:14 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 127 limit 1
+2012-05-09 16:50:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:17 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:17 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:17 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:24 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:24 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:24 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:24 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:24 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:24 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:27 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:27 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:27 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:27 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:27 - stock_info.php - Just fetched 1 sms for processing.
+2012-05-09 16:50:27 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%UNGA%' limit 1
+2012-05-09 16:50:27 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='UNGA' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-05-09 16:50:27 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('simulator',default,default,'Company: Unga Group Ltd Hi: 11 Low: 11 TurnOver: 85,800 Timestamp: 2012-05-09 16:46:27',default)
+2012-05-09 16:50:28 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 128 limit 1
+2012-05-09 16:50:28 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:28 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:28 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:28 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:28 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:28 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:29 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:29 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:29 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:29 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:29 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:29 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:29 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:29 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:30 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:30 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:30 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:30 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:30 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:30 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:30 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:30 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:31 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:31 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:31 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:31 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:31 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:31 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:31 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:31 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:32 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:32 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:32 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:32 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:32 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:32 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:32 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:32 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:33 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:33 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:33 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:33 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:33 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:33 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:34 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:34 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:34 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:34 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:34 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:34 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:34 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:34 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:35 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:35 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:35 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:35 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:35 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:35 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:35 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:35 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:36 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:36 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:36 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:36 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:36 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:36 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:36 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:36 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:37 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:37 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:37 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:37 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:37 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:37 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:38 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:38 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:38 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:38 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:38 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:38 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:38 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:38 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:39 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:39 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:39 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:39 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:39 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:39 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:39 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:39 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:40 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:40 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:40 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:40 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:40 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:40 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:40 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:40 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:41 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:41 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:41 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:41 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:41 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:41 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:41 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:41 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:42 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:42 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:42 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:42 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:42 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:42 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:42 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:42 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:43 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:43 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:43 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:43 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:43 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:43 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:43 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:43 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:44 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:44 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:44 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:44 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:44 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:44 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:44 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:44 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:45 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:45 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:45 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:45 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:45 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:45 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:45 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:45 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:46 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:46 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:46 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:46 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:46 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:46 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:47 - stock_info.php - Just fetched 1 sms for processing.
+2012-05-09 16:50:47 - stock_info.php - Successful Validation: select companyID,sectorID,companyName,Alias from companies where Alias  like '%C&G%' limit 1
+2012-05-09 16:50:47 - stock_info.php - fetched stock prices from liveData. select liveData.companyID, hi,low,turnOver,Alias,companyName,liveData.dateCreated from liveData inner join companies on companies.companyID=liveData.companyID where Alias='C&G' and substr(timediff(time(now()),time(liveData.dateCreated)),1,6) < '00:30' and date(liveData.dateCreated)=curdate() limit 1
+2012-05-09 16:50:47 - stock_info.php - Successfully inserted message to outbound. insert into outbound(destAddr,sourceAddr,messageType,messageContent,status) values('simulator',default,default,'Company: Car & General(K) Ltd Hi: 29 Low: 29 TurnOver: 2,900 Timestamp: 2012-05-09 16:46:24',default)
+2012-05-09 16:50:47 - stock_info.php - Just finished processing a new request. SQL CODE: update incomingRequests set processed = 32 where requestID = 129 limit 1
+2012-05-09 16:50:47 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:47 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:47 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:47 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:48 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:48 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:48 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:48 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:48 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:48 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:49 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:49 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:49 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:49 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:49 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:49 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:49 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:49 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:50 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:50 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:50 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:50 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:50 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:50 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:50 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:50 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:51 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:51 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:52 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:52 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:53 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:53 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:54 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:54 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:55 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:55 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:56 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:56 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:57 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:57 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:58 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:58 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:50:59 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:50:59 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:00 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:00 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:01 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:01 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:02 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:02 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:03 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:03 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:04 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:04 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:05 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:05 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:06 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:06 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:07 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:07 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:08 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:08 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:09 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:09 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:10 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:10 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:11 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:11 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:12 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:12 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:13 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:13 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:14 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:14 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:15 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:15 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:16 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:16 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:17 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:17 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:17 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:17 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:18 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:18 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:19 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:19 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:20 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:20 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:21 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:21 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:22 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:22 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:23 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:23 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:24 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:24 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:24 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:24 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:24 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:24 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:25 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:25 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:26 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:26 - stock_info.php - No requests to be updated!
+2012-05-09 16:51:27 - stock_info.php - Just fetched 0 sms for processing.
+2012-05-09 16:51:27 - stock_info.php - No requests to be updated!
